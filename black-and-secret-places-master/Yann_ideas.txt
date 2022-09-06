@@ -1,0 +1,5 @@
+
+- a responsive sound system for last room
+- certainly change the audio device to be default
+- make hallway door shatters sound better
+- change the echo to use delread4~ because it's much better

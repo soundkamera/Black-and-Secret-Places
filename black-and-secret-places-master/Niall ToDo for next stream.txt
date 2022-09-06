@@ -1,0 +1,2 @@
+- Fix BARBELiTH volume issues (we're modifying Max Distance)
+	- Also Yann's big_synth is introducing the big volume variations.
